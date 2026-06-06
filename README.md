@@ -12,7 +12,7 @@ REA específicos:
 
 Para el logro del resultado de aprendizaje, en este CADI se Vive una experiencia.
 
-                                                                Experiencia 1: Geometría divertida con programación:
+         Experiencia 1: Geometría divertida con programación:
 
 Esta experiencia, alineada con el primer REA específico, introduce a los estudiantes a los estudiantes al pensamiento computacional y geométrico a través de actividades desconectadas, diseñadas para contextos con poca conectividad. Durante dos semanas se emplean guías impresas, tarjetas de secuencias, juegos de movimiento y material manipulativo para que los estudiantes comprendan conceptos como instrucciones, secuencias y formas geométricas. 
 La experiencia incorpora un sistema de gamificación basado en sellos de recompensa, que se otorgan a los estudiantes al completar retos, reforzando su motivación, participación y autonomía. Esta metodología permite que los estudiantes desarrollen habilidades lógicas y geométricas sin necesidad de dispositivos tecnológicos, mediante dinámicas prácticas, colaborativas y lúdicas.
@@ -34,28 +34,22 @@ Actividad 1:
 
      Inicio Semana 1:
 
-     Trabajo estudiante:
-     
-             Durante la Semana 1, los estudiantes 
-                        completaran diferentes procesos como:
-     
-                              - Resolver los tres retos geométricos propuestos en la guía.
-                              - Completar secuencias y dibujar figuras faltantes.
-                              - Colorear siguiendo patrones propuestos.
-                              - Contar triángulos dentro de una figura compuesta.
-                              - Registrar su progreso y obtener sellos de logro.
-
-      Trabajo profesor:
-
-            Lo que se espera que realice el profesor:
-     
-                              - Entregar y explicar la guía con los tres retos desconectados.
-                              - Supervisar los procesos de secuenciación y conteo geométrico.
-                              - Acompañar al estudiante en el análisis y resolución de patrones.
-                              - Retroalimentar las soluciones y otorgar sellos de recompensa.
-                              - Facilitar la socialización de respuestas y estrategias
-
-      Recursos Educativos:
+Trabajo estudiante:
+      Durante la Semana 1, los estudiantes:
+         Completaran diferentes procesos como:
+              - Resolver los tres retos geométricos propuestos en la guía.
+              - Completar secuencias y dibujar figuras faltantes.
+              - Colorear siguiendo patrones propuestos.
+              - Contar triángulos dentro de una figura compuesta.
+              - Registrar su progreso y obtener sellos de logro.
+Trabajo profesor:
+         Lo que se espera que realice el profesor:
+              - Entregar y explicar la guía con los tres retos desconectados.
+              - Supervisar los procesos de secuenciación y conteo geométrico.
+              - Acompañar al estudiante en el análisis y resolución de patrones.
+              - Retroalimentar las soluciones y otorgar sellos de recompensa.
+              - Facilitar la socialización de respuestas y estrategias
+Recursos Educativos:
      
           •	Guía impresa de retos geométricos
           Documento elaborado por el docente con tres retos: secuencias de figuras, variación de tamaños y conteo de triángulos internos.
@@ -171,7 +165,136 @@ Descripción:
 Esta experiencia introduce a los estudiantes al uso de comandos digitales mediante plataformas como Code.org y la manipulación de un robot programable. Durante dos semanas, los participantes aprenden a ejecutar instrucciones utilizando bloques de movimiento, giro, bucles y secuencias. El uso del robot permite que los estudiantes visualicen físicamente la ejecución de sus programas, reforzando la comprensión espacial y geométrica.
 La experiencia culmina con un reto colaborativo donde los equipos deben programar al robot para trazar o recorrer figuras geométricas, integrando pensamiento lógico, coordinación y toma de decisiones.
 
-Actividad 3
+Actividad 3:
+
+       - Secuencias y Patrones con Movimiento Programado
+Descripción:
+           En esta actividad, los estudiantes profundizan en el pensamiento computacional mediante tres retos progresivos centrados en            secuencias, patrones geométricos y programación inicial con MakeCode. La secuencia avanza desde actividades desconectadas              hasta la lectura de código real, permitiendo comprender cómo las instrucciones se transforman en acciones concretas.
+Reto 1 –Secuencia de aplausos:
+           Los niños reproducen y crean secuencias corporales (aplaudir–pausa–doble aplauso–giro), fortaleciendo la noción de orden,              repetición y patrones básicos.
+Reto 2 – Patrones del automóvil:
+           Se presenta un automóvil que recorre figuras geométricas (cuadrado y triángulo). Los estudiantes observan los patrones de              movimiento (avanzar–girar–repetir) y luego predicen los pasos necesarios para completar cada figura.
+Reto 3 – Código en MakeCode:
+          Se muestra el código elaborado en MakeCode utilizando los comandos:
+             •	Potencia – Avanza
+             •	Giro a la izquierda
+             •	Giro a la derecha
+             •	Avanza
+          Los estudiantes deben relacionar el código con los movimientos ejecutados por un robot o simulador, identificando la                   secuencia, la lógica de los giros y el patrón final recorrido.
+          Esta actividad fortalece la comprensión de secuencias, causa–efecto, direccionalidad y abstracción, preparando a los                   estudiantes para programaciones más avanzadas.
+
+Trabajo estudiante
+ Semana 3:
+ 
+          Durante esta actividad, los estudiantes:
+              - Repiten y crean secuencias de aplausos con diferentes patrones corporales.
+              - Observan el movimiento del automóvil y predicen la secuencia necesaria para formar un cuadrado o triángulo.
+              - Identifican giros y repeticiones en el patrón del automóvil.
+              - Analizan el código en MakeCode y relacionan cada bloque con la acción correspondiente.
+              - Comprenden cómo la potencia, los giros y el avance generan trayectorias geométricas.
+              - Deducen la figura realizada a partir del código mostrado.
+
+Trabajo profesor
+
+    El docente se encarga de:
+       - Presentar y modelar la secuencia de aplausos.
+       - Mostrar las trayectorias del automóvil y guiar a los estudiantes en la predicción del siguiente movimiento.
+       - Explicar los comandos básicos de MakeCode utilizados en el código.
+       - Relacionar la ejecución física del automóvil o robot con el código presentado.
+       - Facilitar preguntas, predicciones y correcciones durante la explicación del código.
+       - Registrar avances mediante sellos, lista de verificación y socialización final.
+
+  Recursos Educativos:
+  
+     •	Tarjetas de secuencias (aplausos, pausas, giros).
+     •	Automóvil programado o simulación de trayectorias.
+     •	Video o imagen del automóvil recorriendo figuras geométricas.
+     •	Fragmento de código MakeCode impreso o proyectado.
+     •	Sellos de logro o insignias de gamificación.
+Referencias sugeridas:
+
+     •	Wing, J. (2006). Computational Thinking.
+     •	Resnick, M. (2017). Lifelong Kindergarten.
+     •	Microsoft MakeCode Documentation (inglés).
+     •	Brackmann, C. (2017). Actividades desconectadas y pensamiento computacional.
+     •	Clements & Sarama (2015). Learning and Teaching Early Math.
+
+Instrumentos de Recolección de Datos:
+
+Lista de verificación de secuencias y patrones
+
+    Evalúa:
+         •	Reproducción correcta de la secuencia de aplausos.
+         •	Identificación del patrón geométrico del automóvil.
+         •	Correspondencia entre bloques de código y acciones del robot.
+         •	Comprensión del orden y estructura de los comandos.
+         Bitácora de interpretación de código
+         
+    Evalúa:
+       •	Observaciones de patrones en el movimiento.
+       •	Traducción del código a pasos físicos.
+       •	Reflexiones sobre giros y secuencias.
+       •	Reconocimiento del patrón geométrico final.
+
+Actividad 4
+
+    Programación Guiada con Robots y Construcción Manipulativa:
+    
+Descripción:
+
+     En esta actividad los estudiantes integran movimiento físico, manipulación de objetos y programación básica a través de tres           momentos clave. Primero experimentan con carros robóticos controlados desde el celular, comprendiendo cómo funcionan los comandos      de avance, retroceso y giros. Luego, los más pequeños trabajan con cubos de construcción para formar figuras geométricas y             patrones tridimensionales. Finalmente, todos los estudiantes desarrollan un reto de programación en el que deben crear su propio       código para controlar al robot “Bob”, ajustando potencia, tiempo y secuencia de movimientos.
+     
+Momento 1 – Carros robóticos con control desde el celular:
+
+    Los estudiantes exploran carros que responden a movimientos simples: avanzar, retroceder, girar a la izquierda y girar a la            derecha. Observan cómo cada acción depende de un comando y cómo la secuencia modifica el resultado.
+
+Momento 2 – Cubos geométricos para los más pequeños:
+
+    Los estudiantes de menor edad manipulan cubos para construir figuras (casas, puentes, torres, formas geométricas), reforzando el       pensamiento espacial, la seriación y la coordinación motora fina.
+
+Momento 3 – Programación del robot Bob:
+
+    Cada estudiante diseña una secuencia en la que Bob debe avanzar con una potencia determinada y durante un tiempo específico,           complementando con giros si lo desean. El objetivo es lograr que Bob siga la ruta creada por cada participante.
+
+Semana 3.
+
+Trabajo estudiante.
+
+    Durante esta actividad, los estudiantes:
+    - Interactúan con carros robóticos usando un dispositivo móvil.
+    - Prueban diferentes movimientos para entender cómo la secuencia afecta la trayectoria.
+    - Los más pequeños construyen figuras con cubos siguiendo patrones o creando sus propios diseños.
+    - Diseñan su código para que Bob ejecute una secuencia: potencia, tiempo, giros y avances.
+    - Prueban su código, analizan errores y realizan correcciones (proceso de depuración).
+    - Comparten su secuencia final con el grupo demostrando el recorrido del robot.
+
+El docente realiza:
+
+     - La demostración inicial del uso del control del carro robótico.
+     - La organización de los grupos según edad y nivel de habilidad.
+     - El acompañamiento a los estudiantes más pequeños en la construcción de figuras con cubos.
+     - La explicación de cómo funcionan los parámetros del robot Bob: potencia, tiempo y giros.
+     - La supervisión del proceso de creación del código individual.
+     - La retroalimentación sobre la lógica de la secuencia creada.
+     - El seguimiento del avance mediante sellos o lista de verificación.
+
+Recursos Educativos:
+
+     •	Carros robóticos o vehículos RC con control vía celular.
+     •	Teléfono o tablet para control.
+     •	Cubos de construcción grandes para figuras.
+     •	Robot Bob o plataforma equivalente con comandos de potencia y tiempo.
+     •	Tarjetas impresas con comandos (avanza, retrocede, potencia, tiempo, giro).
+     •	Sellos o insignias para gamificación.
+     Referencias sugeridas:
+     •	Resnick, M. (2017). Lifelong Kindergarten.
+     •	Microsoft MakeCode Documentation.
+     •	Bers, M. (2018). Coding as a Playground. MIT Press.
+     •	Brackmann, C. (2017). Actividades desconectadas para pensamiento computacional.
+
+REFERENCIAS
+
+    En esta sección se deben incluir al menos 10 entradas o referentes, y de ellos 2 deben ser en idioma extranjero (francés, inglés u     otro). Se debe diferenciar entre referencias básicas y complementarias y estas deben estar dentro de las propuestas de                 actividades. Recordar que las referencias pueden ser: libros, capítulos de libro, artículos de revistas indexadas, páginas web,        etc.
 
 
      
