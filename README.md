@@ -42,20 +42,21 @@ Durante la Semana 1, los estudiantes:
 
 # Completaran diferentes procesos como:
 
-	   - Resolver los tres retos geométricos propuestos en la guía.
-       - Completar secuencias y dibujar figuras faltantes.
-       - Colorear siguiendo patrones propuestos.
-       - Contar triángulos dentro de una figura compuesta.
-       - Registrar su progreso y obtener sellos de logro.
+- Resolver los tres retos geométricos propuestos en la guía.
+- Completar secuencias y dibujar figuras faltantes.
+- Colorear siguiendo patrones propuestos.
+- Contar triángulos dentro de una figura compuesta.
+- Registrar su progreso y obtener sellos de logro.
 			  
 # Trabajo profesor:
 
-         Lo que se espera que realice el profesor:
-              - Entregar y explicar la guía con los tres retos desconectados.
-              - Supervisar los procesos de secuenciación y conteo geométrico.
-              - Acompañar al estudiante en el análisis y resolución de patrones.
-              - Retroalimentar las soluciones y otorgar sellos de recompensa.
-              - Facilitar la socialización de respuestas y estrategias
+Lo que se espera que realice el profesor:
+     - Entregar y explicar la guía con los tres retos desconectados.
+     - Supervisar los procesos de secuenciación y conteo geométrico.
+     - Acompañar al estudiante en el análisis y resolución de patrones.
+     - Retroalimentar las soluciones y otorgar sellos de recompensa.
+     - Facilitar la socialización de respuestas y estrategias
+
 #Recursos Educativos:
      
 •	Guía impresa de retos geométricos
@@ -63,25 +64,26 @@ Durante la Semana 1, los estudiantes:
        
 #Referencia:
  
-	Resnick, M. (2017). Lifelong Kindergarten: Cultivating Creativity through Projects, Passion, Peers, and Play. MIT Press.
+Resnick, M. (2017). Lifelong Kindergarten: Cultivating Creativity through Projects, Passion, Peers, and Play. MIT Press.
        
 •	Tarjetas de secuencias geométricas
     Tarjetas manipulativas para trabajar patrones, seriación y reconocimiento de figuras básicas.
        
-#Referencia:
+# Referencia:
     Brackmann, C. (2017). Desarrollo del pensamiento computacional a través de actividades desconectadas. Fundación Telefónica.
        
-          •	Material manipulativo geométrico
-          Figuras recortables, líneas, bloques y trazos que favorecen la exploración espacial.
+•	Material manipulativo geométrico
+
+		  Figuras recortables, líneas, bloques y trazos que favorecen la exploración espacial.
           Referencia:
           Clements, D. H., & Sarama, J. (2015). Learning and teaching early math: The learning trajectories approach. Routledge.
 
 
-  Instrumentos de Recolección de Datos:
+#  Instrumentos de Recolección de Datos:
 
   Lista de verificación de retos geométricos.
   
-#Tipo: Lista de chequeo.
+# Tipo: Lista de chequeo.
 
 	•	Contenido: Validación de secuencias completas, patrones correctos, círculos dibujados según tamaño y conteo adecuado de 		triángulos.
 	•	Parámetros: Exactitud, orden, comprensión geométrica, seguimiento de instrucciones.
@@ -124,24 +126,26 @@ Estas actividades fortalecen la precisión en la creación de instrucciones, el 
 
 # Inicio Semana 2.
 
-  Trabajo de estudiante, Durante esta semana los estudiantes:
+ 
+ # Trabajo de estudiante, Durante esta semana los estudiantes:
+ 
+- Construyen figuras geométricas (triángulo, cuadrado y círculo) siguiendo instrucciones.
+  - Usan tarjetas de movimiento (flechas) para formar secuencias de comandos.
+  - Elaboran rutas paso a paso para mover al robot hasta el tesoro.
+  - Aplican giros y direcciones para llevar la abeja hasta la flor.
+  - Verifican si sus secuencias funcionan, corrigen errores y vuelven a intentarlo.
+  - Registran sus avances mediante sellos de logro y participación en cada reto.
 
-      - Construyen figuras geométricas (triángulo, cuadrado y círculo) siguiendo instrucciones.
-      - Usan tarjetas de movimiento (flechas) para formar secuencias de comandos.
-      - Elaboran rutas paso a paso para mover al robot hasta el tesoro.
-      - Aplican giros y direcciones para llevar la abeja hasta la flor.
-      - Verifican si sus secuencias funcionan, corrigen errores y vuelven a intentarlo.
-      - Registran sus avances mediante sellos de logro y participación en cada reto.
-
-  Trabajo profesor: Lo que realiza el docente en esta actividad:
-
-    - Presentar y explicar los tres retos de la semana.
+#  Trabajo profesor: Lo que realiza el docente en esta actividad:
+  
+	- Presentar y explicar los tres retos de la semana.
     - Entregar las tarjetas de movimiento, tableros y material manipulativo.
     - Supervisar la construcción de figuras y orientar en el uso correcto de direcciones y giros.
     - Facilitar el análisis de rutas y la corrección de errores (depuración).
     - Registrar el logro de los estudiantes y otorgar sellos de avance.
     - Conducir la socialización final de estrategias y rutas creadas por los grupos.
-Recursos Educativos:
+
+# Recursos Educativos:
 
     •	Tarjetas de flechas (derecha, izquierda, arriba, abajo).
     •	Tablero o tapete cuadriculado para los retos de robot y abejas.
@@ -187,15 +191,20 @@ La experiencia culmina con un reto colaborativo donde los equipos deben programa
 [Programación Robots](Guia_3_grado_2_y_5.pdf)
 
 # Descripción:
-           En esta actividad, los estudiantes profundizan en el pensamiento computacional mediante tres retos progresivos centrados en            secuencias, patrones geométricos y programación inicial con MakeCode. La secuencia avanza desde actividades desconectadas              hasta la lectura de código real, permitiendo comprender cómo las instrucciones se transforman en acciones concretas.
 
-Reto 1 –Secuencia de aplausos:
-           Los niños reproducen y crean secuencias corporales (aplaudir–pausa–doble aplauso–giro), fortaleciendo la noción de orden,              repetición y patrones básicos.
-Reto 2 – Patrones del automóvil:
-           Se presenta un automóvil que recorre figuras geométricas (cuadrado y triángulo). Los estudiantes observan los patrones de              movimiento (avanzar–girar–repetir) y luego predicen los pasos necesarios para completar cada figura.
+   En esta actividad, los estudiantes profundizan en el pensamiento computacional mediante tres retos progresivos centrados en            secuencias, patrones geométricos y programación inicial con MakeCode. La secuencia avanza desde actividades desconectadas              hasta la lectura de código real, permitiendo comprender cómo las instrucciones se transforman en acciones concretas.
+
+# Reto 1 –Secuencia de aplausos:
+
+	Los niños reproducen y crean secuencias corporales (aplaudir–pausa–doble aplauso–giro), fortaleciendo la noción de orden,              repetición y patrones básicos.
+	
+# Reto 2 – Patrones del automóvil:
+
+    Se presenta un automóvil que recorre figuras geométricas (cuadrado y triángulo). Los estudiantes observan los patrones de              movimiento (avanzar–girar–repetir) y luego predicen los pasos necesarios para completar cada figura.
 Reto 3 – Código en MakeCode:
-          Se muestra el código elaborado en MakeCode utilizando los comandos:
-             •	Potencia – Avanza
+
+    Se muestra el código elaborado en MakeCode utilizando los comandos:
+          •	Potencia – Avanza
              •	Giro a la izquierda
              •	Giro a la derecha
              •	Avanza
