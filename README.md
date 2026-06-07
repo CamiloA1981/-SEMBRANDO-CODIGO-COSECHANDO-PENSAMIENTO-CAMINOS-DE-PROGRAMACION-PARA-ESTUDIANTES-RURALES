@@ -17,9 +17,9 @@ Para el logro del resultado de aprendizaje, en este CADI se Vive una experiencia
 Esta experiencia, alineada con el primer REA específico, introduce a los estudiantes a los estudiantes al pensamiento computacional y geométrico a través de actividades desconectadas, diseñadas para contextos con poca conectividad. Durante dos semanas se emplean guías impresas, tarjetas de secuencias, juegos de movimiento y material manipulativo para que los estudiantes comprendan conceptos como instrucciones, secuencias y formas geométricas. 
 La experiencia incorpora un sistema de gamificación basado en sellos de recompensa, que se otorgan a los estudiantes al completar retos, reforzando su motivación, participación y autonomía. Esta metodología permite que los estudiantes desarrollen habilidades lógicas y geométricas sin necesidad de dispositivos tecnológicos, mediante dinámicas prácticas, colaborativas y lúdicas.
 
-#Actividades:
+# Actividades:
 
-#Actividad 1:
+# Actividad 1:
 
   Retos geométricos desconectados:
   Descripción:
@@ -36,15 +36,20 @@ La experiencia incorpora un sistema de gamificación basado en sellos de recompe
 
      Inicio Semana 1:
 
-#Trabajo estudiante:
-      Durante la Semana 1, los estudiantes:
-         Completaran diferentes procesos como:
-              - Resolver los tres retos geométricos propuestos en la guía.
-              - Completar secuencias y dibujar figuras faltantes.
-              - Colorear siguiendo patrones propuestos.
-              - Contar triángulos dentro de una figura compuesta.
-              - Registrar su progreso y obtener sellos de logro.
-#Trabajo profesor:
+# Trabajo estudiante:
+
+Durante la Semana 1, los estudiantes:
+
+# Completaran diferentes procesos como:
+
+	   - Resolver los tres retos geométricos propuestos en la guía.
+       - Completar secuencias y dibujar figuras faltantes.
+       - Colorear siguiendo patrones propuestos.
+       - Contar triángulos dentro de una figura compuesta.
+       - Registrar su progreso y obtener sellos de logro.
+			  
+# Trabajo profesor:
+
          Lo que se espera que realice el profesor:
               - Entregar y explicar la guía con los tres retos desconectados.
               - Supervisar los procesos de secuenciación y conteo geométrico.
@@ -91,24 +96,27 @@ La experiencia incorpora un sistema de gamificación basado en sellos de recompe
             Andrade, H., & Cizek, G. J. (2010). Handbook of formative assessment. Routledge.
 
 
-  Actividad 2
+  # Actividad 2.
 
-  Exploradores del Camino: Secuencias y Giros.
+  # Exploradores del Camino: Secuencias y Giros.
 
-  Descripción.
+  # Descripción.
 
 Durante esta actividad los estudiantes desarrollan tres retos secuenciados que integran pensamiento computacional, direccionalidad, lógica y reconocimiento geométrico.  Los retos se realizan mediante actividades desconectadas y el uso de tarjetas de movimiento (flechas), permitiendo a los estudiantes resolver problemas a través de instrucciones paso a paso.
 
-#Reto 1: Construcción de figuras geométricas:
+[Programación Robots](Guia_1_grado_2_y_5.pdf)
+
+# Reto 1: Construcción de figuras geométricas:
     
 Los niños crean cuerpos geométricos (triángulo, cuadrado y círculo) usando material manipulativo, siguiendo instrucciones 			básicas de secuencia y orientación.
       
-#Reto 2: El robot y el tesoro:
+# Reto 2: El robot y el tesoro:
  
 Usando tarjetas de flechas (derecha, izquierda, arriba, abajo), los estudiantes deben guiar a un robot por un tablero hasta llegar al tesoro, verificando la ruta correcta mediante conteo de pasos y secuencia de instrucciones.
       
-#Reto 3 Abejas hacia la flor:
-    Los estudiantes deben llevar a una abeja hasta una flor utilizando flechas y giros, integrando direccionalidad, orientación 		espacial y comprensión de comandos simples.
+# Reto 3 Abejas hacia la flor:
+
+Los estudiantes deben llevar a una abeja hasta una flor utilizando flechas y giros, integrando direccionalidad, orientación 		espacial y comprensión de comandos simples.
       
 #Obsevación:
     Estas actividades fortalecen la precisión en la creación de instrucciones, el pensamiento lógico, la ubicación espacial y la 		resolución de problemas en entorno lúdico.
