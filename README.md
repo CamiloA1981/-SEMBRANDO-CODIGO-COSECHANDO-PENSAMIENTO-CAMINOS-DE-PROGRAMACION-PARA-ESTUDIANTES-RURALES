@@ -12,7 +12,7 @@ REA específicos:
 
 Para el logro del resultado de aprendizaje, en este CADI se Vive una experiencia.
 
-         Experiencia 1: Geometría divertida con programación:
+			Experiencia 1: Geometría divertida con programación:
 
 Esta experiencia, alineada con el primer REA específico, introduce a los estudiantes a los estudiantes al pensamiento computacional y geométrico a través de actividades desconectadas, diseñadas para contextos con poca conectividad. Durante dos semanas se emplean guías impresas, tarjetas de secuencias, juegos de movimiento y material manipulativo para que los estudiantes comprendan conceptos como instrucciones, secuencias y formas geométricas. 
 La experiencia incorpora un sistema de gamificación basado en sellos de recompensa, que se otorgan a los estudiantes al completar retos, reforzando su motivación, participación y autonomía. Esta metodología permite que los estudiantes desarrollen habilidades lógicas y geométricas sin necesidad de dispositivos tecnológicos, mediante dinámicas prácticas, colaborativas y lúdicas.
@@ -24,7 +24,7 @@ Actividad 1:
   Retos geométricos desconectados:
   Descripción:
 
--    Durante esta actividad, los estudiantes trabajan con una guía impresa que contiene tres retos geométricos desconectados, diseñados para fortalecer el pensamiento            computacional sin necesidad de dispositivos tecnológicos.
+-    Durante esta actividad, los estudiantes trabajan con una guía impresa que contiene tres retos geométricos desconectados, 	diseñados para fortalecer el pensamiento            computacional sin necesidad de dispositivos tecnológicos.
 
 -    Reto 1: Completar secuencias de figuras (cuadrado–triángulo) y colorearlas siguiendo un patrón.
 -    Reto 2: Identificar y continuar secuencias con círculos de diferentes tamaños.
