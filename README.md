@@ -12,18 +12,20 @@ REA específicos:
 
 Para el logro del resultado de aprendizaje, en este CADI se Vive una experiencia.
 
-			Experiencia 1: Geometría divertida con programación:
+# Experiencia 1: Geometría divertida con programación:
 
 Esta experiencia, alineada con el primer REA específico, introduce a los estudiantes a los estudiantes al pensamiento computacional y geométrico a través de actividades desconectadas, diseñadas para contextos con poca conectividad. Durante dos semanas se emplean guías impresas, tarjetas de secuencias, juegos de movimiento y material manipulativo para que los estudiantes comprendan conceptos como instrucciones, secuencias y formas geométricas. 
 La experiencia incorpora un sistema de gamificación basado en sellos de recompensa, que se otorgan a los estudiantes al completar retos, reforzando su motivación, participación y autonomía. Esta metodología permite que los estudiantes desarrollen habilidades lógicas y geométricas sin necesidad de dispositivos tecnológicos, mediante dinámicas prácticas, colaborativas y lúdicas.
 
-Actividades:
+#Actividades:
 
-Actividad 1:
+#Actividad 1:
 
   Retos geométricos desconectados:
   Descripción:
 
+[Actividades a realizar](Guia_1_grado_2_y_5.pdf)
+	
 -    Durante esta actividad, los estudiantes trabajan con una guía impresa que contiene tres retos geométricos desconectados, 	diseñados para fortalecer el pensamiento            computacional sin necesidad de dispositivos tecnológicos.
 
 -    Reto 1: Completar secuencias de figuras (cuadrado–triángulo) y colorearlas siguiendo un patrón.
@@ -34,7 +36,7 @@ Actividad 1:
 
      Inicio Semana 1:
 
-Trabajo estudiante:
+#Trabajo estudiante:
       Durante la Semana 1, los estudiantes:
          Completaran diferentes procesos como:
               - Resolver los tres retos geométricos propuestos en la guía.
@@ -42,26 +44,27 @@ Trabajo estudiante:
               - Colorear siguiendo patrones propuestos.
               - Contar triángulos dentro de una figura compuesta.
               - Registrar su progreso y obtener sellos de logro.
-Trabajo profesor:
+#Trabajo profesor:
          Lo que se espera que realice el profesor:
               - Entregar y explicar la guía con los tres retos desconectados.
               - Supervisar los procesos de secuenciación y conteo geométrico.
               - Acompañar al estudiante en el análisis y resolución de patrones.
               - Retroalimentar las soluciones y otorgar sellos de recompensa.
               - Facilitar la socialización de respuestas y estrategias
-Recursos Educativos:
+#Recursos Educativos:
      
-          •	Guía impresa de retos geométricos
-          Documento elaborado por el docente con tres retos: secuencias de figuras, variación de tamaños y conteo de triángulos internos.
+•	Guía impresa de retos geométricos
+	Documento elaborado por el docente con tres retos: secuencias de figuras, variación de tamaños y conteo de triángulos internos.
        
-          Referencia:
-          Resnick, M. (2017). Lifelong Kindergarten: Cultivating Creativity through Projects, Passion, Peers, and Play. MIT Press.
+#Referencia:
+ 
+	Resnick, M. (2017). Lifelong Kindergarten: Cultivating Creativity through Projects, Passion, Peers, and Play. MIT Press.
        
-          •	Tarjetas de secuencias geométricas
-          Tarjetas manipulativas para trabajar patrones, seriación y reconocimiento de figuras básicas.
+•	Tarjetas de secuencias geométricas
+    Tarjetas manipulativas para trabajar patrones, seriación y reconocimiento de figuras básicas.
        
-          Referencia:
-          Brackmann, C. (2017). Desarrollo del pensamiento computacional a través de actividades desconectadas. Fundación Telefónica.
+#Referencia:
+    Brackmann, C. (2017). Desarrollo del pensamiento computacional a través de actividades desconectadas. Fundación Telefónica.
        
           •	Material manipulativo geométrico
           Figuras recortables, líneas, bloques y trazos que favorecen la exploración espacial.
@@ -73,10 +76,12 @@ Recursos Educativos:
 
   Lista de verificación de retos geométricos.
   
-      Tipo: Lista de chequeo.
-            •	Contenido: Validación de secuencias completas, patrones correctos, círculos dibujados según tamaño y conteo adecuado de triángulos.
-            •	Parámetros: Exactitud, orden, comprensión geométrica, seguimiento de instrucciones.
-            Referencia:
+#Tipo: Lista de chequeo.
+
+	•	Contenido: Validación de secuencias completas, patrones correctos, círculos dibujados según tamaño y conteo adecuado de 		triángulos.
+	•	Parámetros: Exactitud, orden, comprensión geométrica, seguimiento de instrucciones.
+           
+#Referencia:
             Popham, W. J. (2017). Classroom assessment: Principles and practice for effective standards-based instruction. Pearson.
             Bitácora de actividades desconectadas
             •	Tipo: Registro gráfico / bitácora.
@@ -94,17 +99,19 @@ Recursos Educativos:
 
 Durante esta actividad los estudiantes desarrollan tres retos secuenciados que integran pensamiento computacional, direccionalidad, lógica y reconocimiento geométrico.  Los retos se realizan mediante actividades desconectadas y el uso de tarjetas de movimiento (flechas), permitiendo a los estudiantes resolver problemas a través de instrucciones paso a paso.
 
-      Reto 1: Construcción de figuras geométricas:
-      Los niños crean cuerpos geométricos (triángulo, cuadrado y círculo) usando material manipulativo, siguiendo instrucciones básicas de secuencia y orientación.
+#Reto 1: Construcción de figuras geométricas:
+    
+Los niños crean cuerpos geométricos (triángulo, cuadrado y círculo) usando material manipulativo, siguiendo instrucciones 			básicas de secuencia y orientación.
       
-      Reto 2: El robot y el tesoro:
-      Usando tarjetas de flechas (derecha, izquierda, arriba, abajo), los estudiantes deben guiar a un robot por un tablero hasta llegar al tesoro, verificando la ruta            correcta mediante conteo de pasos y secuencia de instrucciones.
+#Reto 2: El robot y el tesoro:
+ 
+Usando tarjetas de flechas (derecha, izquierda, arriba, abajo), los estudiantes deben guiar a un robot por un tablero hasta llegar al tesoro, verificando la ruta correcta mediante conteo de pasos y secuencia de instrucciones.
       
-      Reto 3 Abejas hacia la flor:
-      Los estudiantes deben llevar a una abeja hasta una flor utilizando flechas y giros, integrando direccionalidad, orientación espacial y comprensión de comandos simples.
+#Reto 3 Abejas hacia la flor:
+    Los estudiantes deben llevar a una abeja hasta una flor utilizando flechas y giros, integrando direccionalidad, orientación 		espacial y comprensión de comandos simples.
       
-      Obsevación:
-      Estas actividades fortalecen la precisión en la creación de instrucciones, el pensamiento lógico, la ubicación espacial y la resolución de problemas en entorno lúdico.
+#Obsevación:
+    Estas actividades fortalecen la precisión en la creación de instrucciones, el pensamiento lógico, la ubicación espacial y la 		resolución de problemas en entorno lúdico.
 
 Inicio Semana 2.
 
