@@ -104,7 +104,7 @@ Durante la Semana 1, los estudiantes:
 
 Durante esta actividad los estudiantes desarrollan tres retos secuenciados que integran pensamiento computacional, direccionalidad, lógica y reconocimiento geométrico.  Los retos se realizan mediante actividades desconectadas y el uso de tarjetas de movimiento (flechas), permitiendo a los estudiantes resolver problemas a través de instrucciones paso a paso.
 
-[Programación Robots](Guia_1_grado_2_y_5.pdf)
+[Programación Robots](Guia_2_grado_2_y_5.pdf)
 
 # Reto 1: Construcción de figuras geométricas:
     
@@ -118,10 +118,11 @@ Usando tarjetas de flechas (derecha, izquierda, arriba, abajo), los estudiantes 
 
 Los estudiantes deben llevar a una abeja hasta una flor utilizando flechas y giros, integrando direccionalidad, orientación 		espacial y comprensión de comandos simples.
       
-#Obsevación:
-    Estas actividades fortalecen la precisión en la creación de instrucciones, el pensamiento lógico, la ubicación espacial y la 		resolución de problemas en entorno lúdico.
+# Obsevación:
 
-Inicio Semana 2.
+Estas actividades fortalecen la precisión en la creación de instrucciones, el pensamiento lógico, la ubicación espacial y la 		resolución de problemas en entorno lúdico.
+
+# Inicio Semana 2.
 
   Trabajo de estudiante, Durante esta semana los estudiantes:
 
@@ -180,11 +181,14 @@ Descripción:
 Esta experiencia introduce a los estudiantes al uso de comandos digitales mediante plataformas como Code.org y la manipulación de un robot programable. Durante dos semanas, los participantes aprenden a ejecutar instrucciones utilizando bloques de movimiento, giro, bucles y secuencias. El uso del robot permite que los estudiantes visualicen físicamente la ejecución de sus programas, reforzando la comprensión espacial y geométrica.
 La experiencia culmina con un reto colaborativo donde los equipos deben programar al robot para trazar o recorrer figuras geométricas, integrando pensamiento lógico, coordinación y toma de decisiones.
 
-Actividad 3:
+# Actividad 3:
 
-       - Secuencias y Patrones con Movimiento Programado
-Descripción:
+  - Secuencias y Patrones con Movimiento Programado
+[Programación Robots](Guia_3_grado_2_y_5.pdf)
+
+# Descripción:
            En esta actividad, los estudiantes profundizan en el pensamiento computacional mediante tres retos progresivos centrados en            secuencias, patrones geométricos y programación inicial con MakeCode. La secuencia avanza desde actividades desconectadas              hasta la lectura de código real, permitiendo comprender cómo las instrucciones se transforman en acciones concretas.
+
 Reto 1 –Secuencia de aplausos:
            Los niños reproducen y crean secuencias corporales (aplaudir–pausa–doble aplauso–giro), fortaleciendo la noción de orden,              repetición y patrones básicos.
 Reto 2 – Patrones del automóvil:
@@ -198,7 +202,8 @@ Reto 3 – Código en MakeCode:
           Los estudiantes deben relacionar el código con los movimientos ejecutados por un robot o simulador, identificando la                   secuencia, la lógica de los giros y el patrón final recorrido.
           Esta actividad fortalece la comprensión de secuencias, causa–efecto, direccionalidad y abstracción, preparando a los                   estudiantes para programaciones más avanzadas.
 
-Trabajo estudiante
+# Trabajo estudiante
+
  Semana 3:
  
           Durante esta actividad, los estudiantes:
@@ -209,7 +214,7 @@ Trabajo estudiante
               - Comprenden cómo la potencia, los giros y el avance generan trayectorias geométricas.
               - Deducen la figura realizada a partir del código mostrado.
 
-Trabajo profesor
+# Trabajo profesor
 
     El docente se encarga de:
        - Presentar y modelar la secuencia de aplausos.
@@ -219,14 +224,14 @@ Trabajo profesor
        - Facilitar preguntas, predicciones y correcciones durante la explicación del código.
        - Registrar avances mediante sellos, lista de verificación y socialización final.
 
-  Recursos Educativos:
+# Recursos Educativos:
   
      •	Tarjetas de secuencias (aplausos, pausas, giros).
      •	Automóvil programado o simulación de trayectorias.
      •	Video o imagen del automóvil recorriendo figuras geométricas.
      •	Fragmento de código MakeCode impreso o proyectado.
      •	Sellos de logro o insignias de gamificación.
-Referencias sugeridas:
+# Referencias sugeridas:
 
      •	Wing, J. (2006). Computational Thinking.
      •	Resnick, M. (2017). Lifelong Kindergarten.
@@ -234,7 +239,7 @@ Referencias sugeridas:
      •	Brackmann, C. (2017). Actividades desconectadas y pensamiento computacional.
      •	Clements & Sarama (2015). Learning and Teaching Early Math.
 
-Instrumentos de Recolección de Datos:
+# Instrumentos de Recolección de Datos:
 
 Lista de verificación de secuencias y patrones
 
@@ -251,7 +256,9 @@ Lista de verificación de secuencias y patrones
        •	Reflexiones sobre giros y secuencias.
        •	Reconocimiento del patrón geométrico final.
 
-Actividad 4
+# Actividad 4
+
+[Programación Robots](Guia_4_grado_2_y_5.pdf)
 
     Programación Guiada con Robots y Construcción Manipulativa:
     
