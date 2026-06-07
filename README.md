@@ -294,7 +294,13 @@ Recursos Educativos:
 
 REFERENCIAS
 
-    En esta sección se deben incluir al menos 10 entradas o referentes, y de ellos 2 deben ser en idioma extranjero (francés, inglés u     otro). Se debe diferenciar entre referencias básicas y complementarias y estas deben estar dentro de las propuestas de                 actividades. Recordar que las referencias pueden ser: libros, capítulos de libro, artículos de revistas indexadas, páginas web,        etc.
+Autor                                              Titulo               
+    
+    - Ministerio de la tecnología (MINTIC)         Colombia programa     
+
+Enlace 
+
+    https://mintic.gov.co/colombiaprograma/847/w3-propertyvalue-962931.html?fbclid=IwQ0xDSwMYn-                        NjbGNrAxif32V4dG4DYWVtAjExAAEeHhDGrHvBs_eIK654CQwm4QIElT3jT0zxs1GDjC0wH1j8j7zOpiJ5PW9PATM_aem_OzWKRfsq8LNmh_KMFUJtpg&sfnsn=scwspwa#data=%7B%22filter%22:%22%22,%22page%22:1%7D
 
 
      
